@@ -1,0 +1,12 @@
+﻿  Node.cpp
+  Generating Code...
+  Compiling...
+  main.cpp
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(58): warning C4101: 'time1': unreferenced local variable
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(58): warning C4101: 'time2': unreferenced local variable
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(138): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(171): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(105): warning C4715: 'check_node_ambiguity': not all control paths return a value
+  BT_Node_Reporting.vcxproj -> C:\Users\Rasesh\Source\Repos\BT_Node_Reporting\Debug\BT_Node_Reporting.exe
