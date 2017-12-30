@@ -1,9 +1,9 @@
 ﻿  main.cpp
 c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(43): warning C4018: '<': signed/unsigned mismatch
-c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(47): warning C4018: '<': signed/unsigned mismatch
 c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(22): warning C4101: 'time1': unreferenced local variable
 c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(22): warning C4101: 'time2': unreferenced local variable
-c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(91): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
-c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(92): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
-c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(85): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(86): warning C4244: 'initializing': conversion from '__int64' to 'long', possible loss of data
+c:\users\rasesh\source\repos\bt_node_reporting\bt_node_reporting\main.cpp(125): warning C4018: '<': signed/unsigned mismatch
   BT_Node_Reporting.vcxproj -> C:\Users\Rasesh\Source\Repos\BT_Node_Reporting\Debug\BT_Node_Reporting.exe
