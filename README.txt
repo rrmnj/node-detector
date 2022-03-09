@@ -1,5 +1,3 @@
-Rasesh Ramanuj – BT Code Test
-
 Files within directory:
 main.cpp, Node.cpp, Node.h, input.txt, README.txt
 
@@ -18,7 +16,7 @@ the sender node refers to the node which sent the notification. If the system de
 set to alive (since it must be alive to send the message). 
 Adding a new node.
 Friend nodes refer to nodes which are being referenced by the sender node. E.G.
-1508405807378 1508405807387 luke LOST vader - In this example ‘luke’ is the sender, and ‘vader’ is the friend.
+1508405807378 1508405807387 luke LOST vader - In this example â€˜lukeâ€™ is the sender, and â€˜vaderâ€™ is the friend.
 If a friend node is detected on a line, a node instance is created for it, and it is added to the vector (providing it doesn't already exist), 
 however the status is dependent on the notification.
 Updating nodes:
@@ -65,6 +63,6 @@ RECEIVED TIME: 1508405807812 1508405807360 delta =-452
 The status of node 'solo' is set to UNKNOWN. Whenever a node has a status of unknown, it is accompanied by a reason.
 The system has detected a time disparity between the generated time & the received time.
 If the delta between the generated times is less than 50 ms, this indicates the nodes were generated in succession. 
-However, the received time delta is a negative which means it wasn’t received to the monitoring system in the same order 
+However, the received time delta is a negative which means it wasnâ€™t received to the monitoring system in the same order 
 it was sent, so the status of the node is unknown. 
 Notice the sender node however is marked as alive, this is intentional as the sender must be alive to send the notification. 
